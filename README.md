@@ -101,8 +101,6 @@ The dataset contains retail sales transactions, including:
 
 # 📷 Dashboard Preview
 
-> ## 📷 Dashboard Preview
-
 ![Dashboard](dashboard.png)
 
 ---
@@ -115,18 +113,6 @@ The dataset contains retail sales transactions, including:
 4. Analyze the KPIs and visualizations for business insights.
 
 ---
-
-# 📁 Repository Structure
-
-```
-Superstore-sales-dashboard-powerbi/
-│
-├── README.md
-├── Week4_Superstore_Dashboard.pbix
-├── Week4_Superstore_Presentation.pptx
-├── dashboard.png
-└── LICENSE (Optional)
-```
 
 ---
 

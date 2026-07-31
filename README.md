@@ -74,7 +74,6 @@ The dataset contains sales transactions, customer information, product categorie
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot as **dashboard.png** and replace the line below if necessary.
 
 ```markdown
 ![Dashboard Preview](dashboard.png)
